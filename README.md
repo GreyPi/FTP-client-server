@@ -1,8 +1,9 @@
 # Class Project
 
 **Contributers:**
-  maburdi94
-  GreyPi
+  maburdi94,
+  GreyPi,
+  nimapk
  
 **Decription:**
   This project was worked with user maburdi94. This project implements a FTP server and a FTP client. The client can connect to
@@ -12,6 +13,11 @@
   ensure no data was lost and to avoid any overflows. A good learning project in understanding computer networking.
 
 **How to Run:**
+  1. Download Zip folder.
+  2. Extract files.
+  3. Open terminal/CMD in directory for server.py and client.py.
+  4. In server.py run "python server.py" The server is now running and listening for requests.
+  5. In client.py run "python client.py 3000" to establish connection.    
+  6. Any data sent to the server will now be displayed.
   
-
-
+***Sources**: Professor Yun Tian of Cal State Fullerton University.
