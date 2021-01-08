@@ -5,7 +5,7 @@
   GreyPi,
   nimapk
  
-**Decription:**
+**Description:**
 
   This project implements a FTP server and a FTP client. The client can connect to
   the server and has access to upload and download files to and from the server. It uses two channels; control and data. The client
