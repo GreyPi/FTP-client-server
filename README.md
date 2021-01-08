@@ -6,6 +6,7 @@
   nimapk
  
 **Decription:**
+
   This project was worked with user maburdi94. This project implements a FTP server and a FTP client. The client can connect to
   the server and has access to upload and download files to and from the server. It uses two channels; control and data. The client
   initally connects to the control channel and is able to send and recieve data through the data channel. The channel is established
@@ -20,4 +21,4 @@
   5. In client.py run "python client.py 3000" to establish connection.    
   6. Any data sent to the server will now be displayed.
   
-***Sources**: Professor Yun Tian of Cal State Fullerton University.
+***Sources***: Professor Yun Tian of Cal State Fullerton University.
